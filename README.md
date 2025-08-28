@@ -18,6 +18,7 @@ Feel free to reach out anytime for collaboration or opportunities to work togeth
 - JavaScript
 - TypeScript
 - React.js
+- Next.js
 - HTML, CSS
 - Sass
 - PHP
@@ -39,4 +40,5 @@ Feel free to reach out anytime for collaboration or opportunities to work togeth
 | -------- | -------------------------------- |
 | English  | Professional working proficiency |
 | Yoruba   | Native language                  |
+
 
