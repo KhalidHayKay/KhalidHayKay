@@ -2,7 +2,7 @@
 
 # 👨‍💻 About Me
 
-I’m a web developer passionate about solving problems and creating intuitive, functional solutions. With nearly two years of hands-on experience, I’ve built a variety of personal projects, always eager to explore new technologies and push my limits.
+I’m a fullstack developer passionate about solving problems and creating intuitive, functional solutions. With nearly two years of hands-on experience, I’ve built a variety of personal projects, always eager to explore new technologies and push my limits.
 
 One of my key passions is streamlining frontend with backend, whether it's through my go-to stacks; JavaScript and PHP or integrating other technologies. Ensuring seamless communication between both ends is something I constantly strive to perfect.
 
@@ -40,5 +40,6 @@ Feel free to reach out anytime for collaboration or opportunities to work togeth
 | -------- | -------------------------------- |
 | English  | Professional working proficiency |
 | Yoruba   | Native language                  |
+
 
 
